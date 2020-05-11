@@ -1,2 +1,4 @@
 # hello-world
-Just following guides of GitHub.
+
+Hi everyone,
+I am now exploring GitHub and very exsitied about being able to use it during my job.
